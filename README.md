@@ -54,6 +54,8 @@ Average: XXX.XX
 Largest Increase: XXX.XX (YYYY-MM-DD)
 Largest Decrease: XXX.XX (YYYY-MM-DD)
 ```
+* The actual value for the largest decrease should be negative, but you must print it as a positive number.
+
 
 You may choose either of the following strategies:
 1. Read the file and parse out the relevant data *before* finding the required statistics.
